@@ -1,0 +1,6 @@
+compress_image
+compress_image.exe
+
+*.jpg
+*.jpeg
+*.png
